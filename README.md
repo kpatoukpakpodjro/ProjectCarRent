@@ -7,7 +7,7 @@ curl --header "Content-Type: application/json" --request GET http://localhost:80
 ```
 
 ```
-curl --header "Content-Type: application/json" --request PUT --data '{"begin":"4/11/2024","end":"20/11/2024"}' 'http://localhost:8080/cars/11AA22?rent=true'
+curl --header "Content-Type: application/json" --request PUT --data '{"begin":"15/11/2024","end":"21/11/2024"}' 'http://localhost:8080/cars/11AA22?rent=true'
 ```
 
 ### Launch a workflow when the code is updated
